@@ -7,7 +7,7 @@ Solutions for number of basic algorithms using Python.
 
 **First Unique Character**
 
-**Valid Palindrome **
+**Valid Palindrome**
 
 **Monotonic Array**
 
